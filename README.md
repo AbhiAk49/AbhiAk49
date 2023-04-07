@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhiAk49
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning  VueJs,NodeJs
+- 👀 Full Stack Developer [MEVN], Redis, Kafka, Websocket
+- 🌱 I’m currently learning React
 - 📫 How to reach me abhiak49@gmail.com
 
 <!---
