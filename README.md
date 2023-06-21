@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhiAk49
-- 👀 Full Stack Developer - Vue | MongoDB | React | Postgres | Redis | Kafka Websocket
+- 👀 Full Stack Developer - Vue | MongoDB | Node | Express | React | Postgres | Redis | Kafka Websocket
 - 📫 How to reach me abhiak49@gmail.com
 
 <!---
