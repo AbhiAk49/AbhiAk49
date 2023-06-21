@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AbhiAk49
-- 👀 Full Stack Developer [MEVN], Postgres, Redis, Kafka, Websocket
-- 🌱 I’m currently learning React
+- 👀 Full Stack Developer - Vue | MongoDB | React | Postgres | Redis | Kafka Websocket
 - 📫 How to reach me abhiak49@gmail.com
 
 <!---
